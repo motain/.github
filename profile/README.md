@@ -1,5 +1,5 @@
 # OneFootball Engineering
-![logo](./../files/images/sharing_banner.png)
+![logo](../files/images/sharing_banner.png)
 
 ## Overview
 OneFootball is a German platform-based football media company. The OneFootball app features live-scores, statistics and 
