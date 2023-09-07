@@ -8,7 +8,7 @@ news from 200 leagues in 12 different languages covered by a newsroom located in
 
 ## Tech Blog
 Have a look at what we do at OneFootball!
-[medium.com/onefootball-locker-room](https://medium.com/onefootball-locker-room/tagged/engineering)
+[medium.com/onefootball-locker-room](https://medium.com/onefootball-locker-room)
 
 
 ## Find us on LinkedIN
