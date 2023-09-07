@@ -3,7 +3,7 @@
 
 ## Home
 
-Its not a game, its **[OneFootball](https://onefootball.com)**
+Its not a game, its **[OneFootball.com](https://onefootball.com)**
 
 ## Overview
 OneFootball is a German platform-based football media company. The OneFootball app features live-scores, statistics and 
