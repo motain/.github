@@ -15,7 +15,7 @@ Have a look at what we do at OneFootball!
 [medium.com/onefootball-locker-room](https://medium.com/onefootball-locker-room)
 
 
-## Find us on LinkedIN
+## Find us on LinkedIn
 [linkedin/onefootball](https://www.linkedin.com/company/onefootball/mycompany/)
 
 ## Contributing with `Zen`
