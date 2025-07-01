@@ -16,7 +16,7 @@ Have a look at what we do at OneFootball!
 
 
 ## Find us on LinkedIn
-[linkedin/onefootball](https://www.linkedin.com/company/onefootball/mycompany/)
+[linkedin/onefootball](https://www.linkedin.com/company/onefootball/)
 
 ## Contributing with `Zen`
 
