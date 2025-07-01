@@ -2,7 +2,7 @@
 
 ## Home
 
-Its not a game, its **[OneFootball.com](https://onefootball.com)**
+It's not a game, it's **[OneFootball.com](https://onefootball.com)**
 
 ![image](https://github.com/motain/.github/assets/10398915/50627312-a3c6-4161-a3af-87ea4266f78f)
 
