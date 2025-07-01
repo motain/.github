@@ -1,6 +1,6 @@
 # .github
 
-# What is this?
+## What is this?
 
 This repository generates the home page for organization github profile 
 
